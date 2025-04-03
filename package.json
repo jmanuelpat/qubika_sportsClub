@@ -1,0 +1,22 @@
+{
+  "name": "qubika_sportsclub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmanuelpat/qubika_sportsClub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmanuelpat/qubika_sportsClub/issues"
+  },
+  "homepage": "https://github.com/jmanuelpat/qubika_sportsClub#readme",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
